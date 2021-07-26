@@ -1,0 +1,191 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #2624a5, #96126a, #f17ce8, #96126a, #085a6e);
+}
+
+#heading
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+#heading img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255, 255, 255, 0.8);float: none;border-radius: 15px;
+}
+
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+    background-color: #55e9b0;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(241, 189, 189, 0.911);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(241, 189, 189, 0.911);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+
+.background{
+    background-color: linear-gradient(to center, #115075,#0481b3, #96126a);
+}
+
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#log_out
+{
+	font-size: 20px; float: right;
+    color: rgb(236, 61, 61);
+    border-radius: 10%;
+}
+
+#heading img
+{
+	width: 80px;margin-left: -15px;
+}
+
+#heading
+{
+	color: rgb(0, 0, 0);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(231, 252, 250, 0.8);border-radius: 15px;
+}
+
+#new_room_button{
+    background-color: rgb(30, 9, 100);
+    text: rgb(255, 255, 255);
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(238, 193, 193, 0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+
+
